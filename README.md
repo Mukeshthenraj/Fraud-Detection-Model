@@ -94,3 +94,8 @@ python fraud_assignment.py
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+👨‍💻 Author
+Mukesh Thenraj
