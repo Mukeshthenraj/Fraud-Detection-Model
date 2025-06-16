@@ -97,5 +97,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-👨‍💻 Author
-Mukesh Thenraj
+## 👤 Author
+
+[Mukesh Thenraj](https://www.linkedin.com/in/mukesh-thenraj)  
+📧 mukeshthenraj@gmail.com
