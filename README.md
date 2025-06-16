@@ -1,7 +1,13 @@
 
 # 🕵️‍♂️ Fraud Detection Model
 
-This project is part of the **Applied Data Science with Python Specialization** and focuses on building and evaluating a machine learning model to detect fraudulent transactions from a given dataset.
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+This project uses machine learning to detect fraud in a labeled dataset. It covers data preprocessing, model training, evaluation, and visualization of fraud prediction.
+
+---
 
 ## 📂 Project Structure
 
@@ -23,7 +29,9 @@ Fraud-Detection-Model/
 
 The dataset (`fraud_data.csv`) contains observations labeled as fraudulent or not. The goal is to predict fraud using classification models.
 
-## 🧠 Features
+---
+
+## 🌟 Features
 
 - Load and explore the dataset
 - Train/test split
@@ -39,6 +47,8 @@ The dataset (`fraud_data.csv`) contains observations labeled as fraudulent or no
   - Confusion Matrix
 - Visualization using seaborn/matplotlib
 - GridSearchCV for hyperparameter tuning
+
+---
 
 ## 🛠️ Installation
 
@@ -60,15 +70,27 @@ Or run the Python script in PyCharm or terminal:
 python fraud_assignment.py
 ```
 
+---
+
+## 📊 Sample Visuals
+
+### 🔥 Grid Search Heatmap
+![Grid Search Heatmap](images/gridsearch_heatmap.png)
+
+---
+
 ## 📌 Requirements
 
+```
 - Python 3.7+
 - scikit-learn
 - pandas
 - numpy
 - matplotlib
 - seaborn
+```
 
+---
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
