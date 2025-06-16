@@ -61,7 +61,7 @@ pip install -r requirements.txt
 Run the notebook:
 
 ```bash
-jupyter notebook notebooks/fraud_assignment.ipynb
+jupyter notebook notebooks/fraud_assignment.py
 ```
 
 Or run the Python script in PyCharm or terminal:
